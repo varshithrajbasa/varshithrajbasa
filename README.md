@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshithrajbasa&label=Views&color=blue&style=plastic" alt="varshith views" /> </p>
 
 [![Twitter: varshithrajB](https://img.shields.io/twitter/follow/raj_basa?style=social)](https://twitter.com/raj_basa)
-[![Linkedin: VarshithRajBasa](https://img.shields.io/badge/-VarshithRajBasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/varshith-raj-basa-36718753)](https://in.linkedin.com/in/varshith-raj-basa-b0893815a/)
+[![Linkedin: VarshithRajBasa](https://img.shields.io/badge/-VarshithRajBasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varshith-raj-basa-b0893815a/)](https://www.linkedin.com/in/varshith-raj-basa-b0893815a/)
 [![GitHub Varshith Raj Basa](https://img.shields.io/github/followers/VarshithRajBasa?label=follow&style=social)](https://github.com/varshithrajbasa)
 [![website](https://img.shields.io/badge/PortfolioWebsite-varshithrajbasa.github.io/-2648ff?style=flat-square&logo=google-chrome)](http://varshithrajbasa.github.io/)
 <br>
