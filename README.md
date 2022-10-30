@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin: VarshithRajBasa](https://img.shields.io/badge/-VarshithRajBasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varshith-raj-basa-b0893815a/)](https://www.linkedin.com/in/varshith-raj-basa-b0893815a/)
 [![GitHub Varshith Raj Basa](https://img.shields.io/github/followers/VarshithRajBasa?label=follow&style=social)](https://github.com/varshithrajbasa)
 [![website](https://img.shields.io/badge/PortfolioWebsite-varshithrajbasa.github.io/-2648ff?style=flat-square&logo=google-chrome)](http://varshithrajbasa.github.io/)
+[![@varshithrajbasa's Holopin board](https://holopin.me/varshithrajbasa)](https://holopin.io/@varshithrajbasa)
 <br>
 
 - 🔭 I’m currently working on PTC Thingworx.
@@ -49,9 +50,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/VarshithRajBasa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarshithRajBasa&show_icons=true&theme=light&line_height=27" alt="Varshith's github stats"/>
 </a>
-<br>
-[![@varshithrajbasa's Holopin board](https://holopin.me/varshithrajbasa)](https://holopin.io/@varshithrajbasa)
-<br>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
