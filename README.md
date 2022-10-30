@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-varshithrajbasa.github.io/-2648ff?style=flat-square&logo=google-chrome)](http://varshithrajbasa.github.io/)
 <br>
 
-- 🔭 I’m currently working on Nothing.
+- 🔭 I’m currently working on PTC Thingworx.
 - 🌱 I’m currently learning Node JS and MongoDB.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/VarshithRajBasa?view_as=subscriber).
-- 💬 Ask me about Angular or any tech related stuff.
+- 💬 Ask me about PolymerJS or any tech related stuff.
 - 📫 How to reach me: [Twitter - @raj_basa](https://twitter.com/raj_basa) , [Instagram - @varshithraj.basa](https://www.instagram.com/varshithraj.basa/?hl=en)
-- 😄 Pronouns: I, you, he, she, it, they, this.
+- 😄 Pronouns: he, him.
 - ⚡ Fun fact: I spend almost 12 hours working everyday.
 
 **Languages and frameworks:**  
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/varshithrajbasa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithrajbasa&theme=light&hide_langs_below=1" />
@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/VarshithRajBasa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarshithRajBasa&show_icons=true&theme=light&line_height=27" alt="Varshith's github stats"/>
 </a>
+<br>
+[![@varshithrajbasa's Holopin board](https://holopin.me/varshithrajbasa)](https://holopin.io/@varshithrajbasa)
+<br>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
