@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshithrajbasa&label=Views&color=blue&style=plastic" alt="varshith views" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on PTC Thingworx.<br>🌱 I’m currently learning Node JS and MongoDB.<br>👯 I’m looking to collaborate on Youtube.<br>💬 Ask me about PolymerJS or any tech related stuff.<br>😄 Pronouns: he, him.<br>⚡ Fun fact: I spend almost 12 hours working everyday.
+🔭 I’m currently working on React JS.<br>🌱 I’m currently learning Node JS and MongoDB.<br>👯 I’m looking to collaborate on Youtube.<br>💬 Ask me about PolymerJS or any tech related stuff.<br>😄 Pronouns: he, him.<br>⚡ Fun fact: I spend almost 12 hours working everyday.
 
 
 ## 🌐 Socials:
